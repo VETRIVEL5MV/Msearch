@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(238, 235, 65);
+    width: 100px;
+    margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+.new{
+    margin: 0 auto;
+    padding: 20px;
+    min-width: 400px;
+    max-width: 400px;
+    border-radius: 10px;
+    text-align: center;
+   
+}
+input{
+    width: 100%;
+    padding: 20px;
+    font-size: 20px;
+    margin: 5px auto;
+    border:10px solid rgb(125, 233, 126);
+    border-radius: 5px;
+}
+/*@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; 
+    }
+  }*/
